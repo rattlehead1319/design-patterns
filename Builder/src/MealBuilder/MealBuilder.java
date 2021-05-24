@@ -1,3 +1,5 @@
+package MealBuilder;
+
 public class MealBuilder {
 
     public Meal prepareVegMeal () {

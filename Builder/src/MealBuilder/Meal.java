@@ -1,3 +1,5 @@
+package MealBuilder;
+
 import java.util.*;
 
 public class Meal {
@@ -17,7 +19,7 @@ public class Meal {
 
     public void showItems () {
         for (Item items: items) {
-            System.out.println("Item: " + items.name() + ", Packing: " + items.packing().pack() + ", Price: " + items.price());
+            System.out.println("MealBuilder.Item: " + items.name() + ", MealBuilder.MealBuilder.Packing: " + items.packing().pack() + ", Price: " + items.price());
         }
     }
 }

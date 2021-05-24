@@ -1,8 +1,10 @@
-public abstract class ColdDrink implements Item {
+package MealBuilder;
+
+public abstract class Burger implements Item {
 
     @Override
     public Packing packing() {
-        return new Bottle();
+        return new Wrapper();
     }
 
     @Override

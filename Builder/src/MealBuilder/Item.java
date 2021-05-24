@@ -1,3 +1,5 @@
+package MealBuilder;
+
 public interface Item {
     public String name();
     public Packing packing();
