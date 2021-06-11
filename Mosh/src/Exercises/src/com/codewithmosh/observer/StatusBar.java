@@ -3,15 +3,10 @@ package Exercises.src.com.codewithmosh.observer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StatusBar {
-    private List<Stock> stocks = new ArrayList<>();
+public class StatusBar implements Observer {
 
-    public void addStock(Stock stock) {
-        stocks.add(stock);
-    }
-
-    public void show() {
-        for (Stock stock : stocks)
-            System.out.println(stock);
+    @Override
+    public void update(float price) {
+        System.out.println("Price got updated at StatusBar: " + price);
     }
 }
