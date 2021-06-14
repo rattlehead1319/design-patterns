@@ -5,7 +5,7 @@ public class ObserverImpl {
         Stock stock = new Stock("Apple", 2.3f);
         stock.addObserver(new StatusBar());
         stock.addObserver(new StockListView());
-        
+
         stock.setPrice(3.4f);
     }
 }
