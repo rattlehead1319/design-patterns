@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mosh/Mosh.iml" filepath="$PROJECT_DIR$/Mosh/Mosh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mosh - Design Patterns - Part 1/Mosh - Design Patterns - Part 1.iml" filepath="$PROJECT_DIR$/Mosh - Design Patterns - Part 1/Mosh - Design Patterns - Part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mosh - Design Patterns - Part 2/Mosh - Design Patterns - Part 2.iml" filepath="$PROJECT_DIR$/Mosh - Design Patterns - Part 2/Mosh - Design Patterns - Part 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Random/Random.iml" filepath="$PROJECT_DIR$/../Random/Random.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
